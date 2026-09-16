@@ -54,10 +54,10 @@ Copia el archivo de ejemplo para crear tu propio archivo local de configuración
 
 ---
 
-## Reglas para Trabajar en Equipo (Git & GitHub)
+## Reglas (Git & GitHub)
 Para proteger la integridad del código en producción, **está prohibido hacer push directo a la rama main**.
 
-### Tu flujo de trabajo diario:
+### Flujo diario:
 
 1. **Crear una rama propia para tu tarea:**
 
